@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Bullet
+comment1.params=rotation\ first
+comment1.target=Bullet(int,\ boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ loading()
+comment4.params=
+comment4.target=void\ updateDeadliness()
+comment5.params=
+comment5.target=void\ mouvement()
+comment6.params=
+comment6.target=void\ borderDetection()
+comment7.params=
+comment7.target=void\ updateSprite()
+numComments=8

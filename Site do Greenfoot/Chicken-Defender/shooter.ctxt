@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=shooter
+comment1.params=
+comment1.target=shooter()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ setup()
+comment4.params=
+comment4.target=void\ place()
+comment5.params=egg
+comment5.target=void\ shoot(greenfoot.Actor)
+comment6.params=mouse
+comment6.target=int\ calcX(greenfoot.MouseInfo)
+comment7.params=mouse
+comment7.target=int\ calcY(greenfoot.MouseInfo)
+numComments=8

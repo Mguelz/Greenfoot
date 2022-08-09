@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Static
+comment0.text=\r\n\ \u4E00\u4E9B\u516C\u5F00\u7684\u8D44\u6E90\r\n
+comment1.params=actors\ classes
+comment1.target=void\ exclude(java.util.List,\ java.lang.Class[])
+comment1.text=\r\n\ \u4ECEactors\u4E2D\u6392\u9664\u662Fclasses\u7684\u5BF9\u8C61\r\n
+comment10.params=s\ type
+comment10.target=void\ note(java.lang.String,\ java.lang.String)
+comment2.params=actors\ classes
+comment2.target=void\ exclude(java.util.List,\ java.util.List)
+comment3.params=actors\ classes
+comment3.target=void\ include(java.util.List,\ java.lang.Class[])
+comment3.text=\r\n\ \u4ECEactors\u4E2D\u6392\u9664\u4E0D\u662Fclasses\u7684\u5BF9\u8C61\r\n
+comment4.params=actors\ classes
+comment4.target=void\ include(java.util.List,\ java.util.List)
+comment5.params=actor\ direct
+comment5.target=void\ fly(greenfoot.Actor,\ Direct)
+comment6.params=actor\ direct
+comment6.target=void\ setShootXY(greenfoot.Actor,\ Direct)
+comment7.params=type
+comment7.target=void\ play(java.lang.String)
+comment8.params=
+comment8.target=boolean\ getRandom()
+comment9.params=i
+comment9.target=boolean\ getRandom(int)
+numComments=11

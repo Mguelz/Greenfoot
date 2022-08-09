@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Empty_Special
+comment1.params=
+comment1.target=void\ die()
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ getBloodShort()
+comment3.params=bloodShort
+comment3.target=void\ setBloodShort(greenfoot.GreenfootImage)
+numComments=4

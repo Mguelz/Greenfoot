@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Empty_Special1
+comment1.params=
+comment1.target=void\ die()
+comment2.params=
+comment2.target=java.util.List\ getImages()
+comment3.params=images
+comment3.target=void\ setImages(java.util.List)
+numComments=4

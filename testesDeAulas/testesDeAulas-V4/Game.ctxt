@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ procurando\ o\ que\ adicionar\ nesta\ vers\u00E3o\r\n\ \r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+numComments=3

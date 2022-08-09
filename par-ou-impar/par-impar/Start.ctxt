@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Start
+comment1.params=
+comment1.target=Start()
+comment1.text=\r\n\ Ao\ clicar\ em\ uma\ tecla,\ voce\ escolhe\ sua\ opcao,\ impar\ ou\ par\r\n\ o\ sistema\ gerara\ um\ numero\ entre\ 1\ e\ 2\r\n\ \r\n\ exemplo\r\n\ ao\ escolher\ impar,\ por\ exemplo,\ se\ o\ sistema\ gerar\ 1\ voce\ venceu,\r\n\ se\ o\ sistema\ gerar\ 2\ voce\ perdeu.\r\n
+numComments=2

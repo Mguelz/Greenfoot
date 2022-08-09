@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=shop
+comment1.params=
+comment1.target=shop()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ setup()
+comment4.params=buyedshooter\ costs
+comment4.target=void\ loop(greenfoot.Actor,\ int)
+numComments=5

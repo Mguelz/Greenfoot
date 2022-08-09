@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Key
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Keys\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Key()
+comment2.params=keyNum
+comment2.target=Key(int)
+comment3.params=keyName
+comment3.target=Key(java.lang.String)
+comment4.params=
+comment4.target=int\ getKeyValue()
+numComments=5

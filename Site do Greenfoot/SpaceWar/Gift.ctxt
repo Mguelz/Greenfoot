@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Gift
+comment0.text=\r\n\ \u9053\u5177\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ die()
+comment3.params=
+comment3.target=void\ fly()
+comment4.params=mine
+comment4.target=void\ open(Mine)
+comment5.params=
+comment5.target=Gift()
+comment6.params=
+comment6.target=int\ getSpeed()
+comment7.params=speed
+comment7.target=void\ setSpeed(int)
+comment8.params=
+comment8.target=Direct\ getDirect()
+comment9.params=direct
+comment9.target=void\ setDirect(Direct)
+numComments=10

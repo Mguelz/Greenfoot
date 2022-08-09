@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Notas_Atualiza\u00E7\u00E3o
+comment0.text=\r\n\ ADICIONADO\ NESTA\ VERS\u00C3O\:\r\n\ \r\n\ Adicionado\ os\ tiros\ na\ abelha;\r\n\ adiciona\ backgroud;\r\n\ Melhorado\ o\ visual\ dos\ c\u00F3digos\ de\ vers\u00F5es\ anteriores;\r\n\ Bot\u00E3o\ de\ start\ mudado;\r\n\ Ao\ terminar\ o\ jogo\ aparecer\ uma\ frase;\r\n
+comment1.params=
+comment1.target=Notas_Atualiza\u00E7\u00E3o()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Notas_Atualiza\u00E7\u00E3o.\r\n\ \r\n
+numComments=2

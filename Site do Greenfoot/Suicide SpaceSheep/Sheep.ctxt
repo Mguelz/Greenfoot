@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Sheep
+comment1.params=
+comment1.target=Sheep()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ spawn()
+comment4.params=
+comment4.target=void\ turnSheep()
+comment5.params=
+comment5.target=void\ eatBanana()
+comment6.params=
+comment6.target=void\ dash()
+comment7.params=
+comment7.target=void\ invisibility()
+comment8.params=
+comment8.target=void\ shoot()
+numComments=9

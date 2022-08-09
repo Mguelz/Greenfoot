@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="bluejcore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../greenfoot/lib/bluejcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../greenfoot/lib/greenfoot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

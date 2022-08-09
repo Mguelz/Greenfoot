@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Spider
+comment1.params=
+comment1.target=Spider()
+comment2.params=
+comment2.target=void\ setup()
+comment3.params=
+comment3.target=void\ loop()
+comment4.params=
+comment4.target=int\ health()
+comment5.params=
+comment5.target=void\ changehealthbar()
+numComments=6

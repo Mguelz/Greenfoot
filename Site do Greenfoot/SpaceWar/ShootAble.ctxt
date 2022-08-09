@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ShootAble
+comment1.params=
+comment1.target=void\ shoot()
+comment2.params=shootX
+comment2.target=void\ setShootX(int)
+comment3.params=
+comment3.target=int\ getShootX()
+comment4.params=shootY
+comment4.target=void\ setShootY(int)
+comment5.params=
+comment5.target=int\ getShootY()
+numComments=6

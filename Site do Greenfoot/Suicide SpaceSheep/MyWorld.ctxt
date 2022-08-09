@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment10.params=position
+comment10.target=int[]\ getCoordFromPos(java.lang.String)
+comment11.params=energy\ score
+comment11.target=void\ showStats(int,\ int)
+comment12.params=
+comment12.target=void\ newWave()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ initialize()
+comment4.params=
+comment4.target=void\ updateState()
+comment5.params=
+comment5.target=void\ spawnFruits()
+comment6.params=x\ y\ rotation\ first
+comment6.target=void\ spawnBullet(int,\ int,\ int,\ boolean)
+comment7.params=nGuys
+comment7.target=void\ spawnEnnemies(int)
+comment8.params=position\ text
+comment8.target=void\ showMessage(java.lang.String,\ java.lang.String)
+comment9.params=position
+comment9.target=void\ clearMessage(java.lang.String)
+numComments=13

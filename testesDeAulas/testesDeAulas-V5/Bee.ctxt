@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bee
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ validarTeclado()
+comment3.params=
+comment3.target=void\ validarMouse()
+comment4.params=
+comment4.target=void\ tocarPlanta()
+comment5.params=
+comment5.target=void\ ProximoLevel()
+numComments=6

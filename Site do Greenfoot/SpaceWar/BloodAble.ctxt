@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BloodAble
+comment1.params=HP
+comment1.target=void\ setHP(int)
+comment2.params=
+comment2.target=int\ getHP()
+comment3.params=HP_MAX
+comment3.target=void\ setHP_MAX(int)
+comment4.params=
+comment4.target=int\ getHP_MAX()
+comment5.params=rHP
+comment5.target=boolean\ reduceHP(int)
+comment5.text=\r\n\ \u5982\u679C\u51CF\u5C11\u8840\u91CF\u4E4B\u540E,\ \u8840\u91CF\u4E3A0,\ \u8FD4\u56DEture\r\n
+comment6.params=aHP
+comment6.target=boolean\ addHP(int)
+comment6.text=\r\n\ \u5982\u679C\u589E\u52A0\u8840\u91CF\u4E4B\u540E,\ \u8840\u91CF\u4E3A0,\ \u8FD4\u56DEture\r\n
+numComments=7

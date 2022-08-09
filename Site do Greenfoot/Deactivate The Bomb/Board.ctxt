@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Board\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=countDownTime\ time\ min\ sec\ millis\ trialsRemaining
+comment1.target=void\ displayInfo(int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=void\ displayGuide()
+numComments=3
